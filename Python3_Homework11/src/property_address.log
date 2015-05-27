@@ -1,0 +1,18 @@
+2015-01-28 17:09:36,737 - INFO - __init__ - Creating a new address
+2015-01-28 17:09:36,737 - INFO - __init__ - Creating a new address
+2015-01-28 17:09:36,737 - ERROR - __init__ - STATE exception
+2015-01-28 17:09:36,737 - INFO - __init__ - Creating a new address
+2015-01-28 17:09:36,737 - ERROR - __init__ - ZIPCODE exception
+2015-01-28 17:09:36,737 - INFO - __init__ - Creating a new address
+2015-01-28 17:09:36,737 - INFO - name - Getting the name
+2015-01-28 17:09:36,737 - ERROR - name - Name exception
+2015-01-28 17:09:36,737 - INFO - __init__ - Creating a new address
+2015-01-28 17:09:36,737 - INFO - state - Getting the state
+2015-01-28 17:09:36,737 - ERROR - __init__ - STATE exception
+2015-01-28 17:09:36,737 - INFO - state - Setting a new state
+2015-01-28 17:09:36,753 - INFO - state - Getting the state
+2015-01-28 17:09:36,753 - INFO - __init__ - Creating a new address
+2015-01-28 17:09:36,753 - INFO - zip_code - Getting the zip code
+2015-01-28 17:09:36,753 - ERROR - __init__ - ZIPCODE exception
+2015-01-28 17:09:36,753 - INFO - zip_code - Setting a new zip code
+2015-01-28 17:09:36,753 - INFO - zip_code - Getting the zip code
